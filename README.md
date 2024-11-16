@@ -1,4 +1,7 @@
+
 # BlackJack
+
+TAMAMEN HOBİ AMACIYLA YAPILMIŞTIR HERHANGİ BİR ONLİNE KUMAR SİTESİYLE ALAKASI YOKTUR.
 
 Mrb arkdslar su kutuphaneleri eklemezseniz calismiyo:
 
